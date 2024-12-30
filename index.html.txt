@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Video Making AI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Video Making AI</h1>
+    <p>Create stunning videos with AI-powered tools.</p>
+  </header>
+
+  <main>
+    <section id="demo">
+      <h2>Demo</h2>
+      <video controls>
+        <source src="assets/demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <p>Experience the power of AI in video creation.</p>
+    </section>
+
+    <section id="features">
+      <h2>Features</h2>
+      <ul>
+        <li>AI-generated video transitions</li>
+        <li>Automatic scene detection</li>
+        <li>Customizable templates</li>
+        <li>Seamless video editing</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 VideoMakingAI. All Rights Reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

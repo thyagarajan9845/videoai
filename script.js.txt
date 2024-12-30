@@ -1,0 +1,2 @@
+// Script for future interactivity
+console.log("Welcome to Video Making AI!");
